@@ -1,10 +1,8 @@
 ~~~~~~~~~~~~~~~~~~~~~Explainable AI / XAI~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 Introduction
 
-https://en.wikipedia.org/wiki/Explainable_artificial_intelligence
-https://www.theguardian.com/science/2017/nov/05/computer-says-no-why-making-ais-fair-accountable-and-transparent-is-crucial
 https://www.darpa.mil/attachments/XAIProgramUpdate.pdf
+https://arxiv.org/pdf/1901.04592.pdf
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Explainable AI methods:
@@ -64,8 +62,15 @@ https://arxiv.org/abs/1602.04938
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Github Resource page and Books
 
+Interpretable Machine Learning (PDF by Christoph Molnar)
+http://ganj-ie.iust.ac.ir:8081/images/6/69/Interpretable-machine-learning.pdf
+
+Explainable and Interpretable Models in Computer Vision and Machine Learning
+http://93.174.95.29/_ads/6737DEF6A95CE6EFCED4035D57FDCAF9
+
 https://github.com/anguyen8/XAI-papers
 https://www.h2o.ai/wp-content/uploads/2019/08/An-Introduction-to-Machine-Learning-Interpretability-Second-Edition.pdf
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Tools we can use
 
@@ -84,4 +89,12 @@ https://www.youtube.com/watch?v=B-c8tIgchu0
 
 Building Explainable Machine Learning Systems: The Good, the Bad, and the Ugly
 https://www.youtube.com/watch?v=Q8rTrmqUQsU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Applications of XAI
+
+https://gpuoncloud.com/xai-explainable-ai-top-5-use-cases/
+https://en.wikipedia.org/wiki/Explainable_artificial_intelligence#Sectors
+https://www.researchgate.net/publication/334298605
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
