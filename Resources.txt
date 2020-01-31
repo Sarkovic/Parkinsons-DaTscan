@@ -1,0 +1,87 @@
+~~~~~~~~~~~~~~~~~~~~~Explainable AI / XAI~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Introduction
+
+https://en.wikipedia.org/wiki/Explainable_artificial_intelligence
+https://www.theguardian.com/science/2017/nov/05/computer-says-no-why-making-ais-fair-accountable-and-transparent-is-crucial
+https://www.darpa.mil/attachments/XAIProgramUpdate.pdf
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Explainable AI methods:
+
+> LIME (Local Interpretable Model-agnostic Explanations)
+https://arxiv.org/pdf/1602.04938v1.pdf
+https://towardsdatascience.com/understanding-model-predictions-with-lime-a582fdff3a3b
+https://homes.cs.washington.edu/~marcotcr/blog/lime/
+https://github.com/marcotcr/lime
+
+> SHAP
+https://www.analyticsvidhya.com/blog/2019/11/shapley-value-machine-learning-interpretability-game-theory/
+https://christophm.github.io/interpretable-ml-book/shapley.html
+https://github.com/slundberg/shap
+https://arxiv.org/pdf/1705.07874.pdf
+
+> Saabas (Tree Interpreter)
+http://cs.ioc.ee/~tarmo/tday-kao/saabas-slides.pdf
+https://github.com/andosa/treeinterpreter
+
+> DeepLIFT
+https://towardsdatascience.com/interpretable-neural-networks-45ac8aa91411
+https://arxiv.org/pdf/1704.02685.pdf
+https://github.com/kundajelab/deeplift
+
+> RISE (Randomized Input Sampling for Explanation of Black-box Models)
+https://bdtechtalks.com/2018/10/15/kate-saenko-explainable-ai-deep-learning-rise/
+https://arxiv.org/pdf/1806.07421.pdf
+https://github.com/eclique/RISE
+
+> LRP (Layer-wise Relevance Propagation)
+https://opendatascience.com/layer-wise-relevance-propagation-means-more-interpretable-deep-learning/
+http://iphome.hhi.de/samek/pdf/MonXAI19.pdf
+http://www.heatmapping.org/
+
+> PDP (Partial Dependence Plots)
+https://towardsdatascience.com/introducing-pdpbox-2aa820afd312
+https://scikit-learn.org/stable/modules/partial_dependence.html
+https://github.com/SauceCat/PDPbox
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Papers
+
+Explainable Artificial Intelligence (XAI): Concepts, Taxonomies,
+Opportunities and Challenges toward Responsible AI
+https://arxiv.org/pdf/1910.10045.pdf
+
+Network Dissection: Quantifying Interpretability of Deep Visual Representations
+http://netdissect.csail.mit.edu/
+
+Learning Important Features Through Propagating Activation Differences
+https://github.com/slundberg/shap
+
+"Why Should I Trust You?": Explaining the Predictions of Any Classifier
+https://arxiv.org/abs/1602.04938
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Github Resource page and Books
+
+https://github.com/anguyen8/XAI-papers
+https://www.h2o.ai/wp-content/uploads/2019/08/An-Introduction-to-Machine-Learning-Interpretability-Second-Edition.pdf
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tools we can use
+
+https://cloud.google.com/explainable-ai/
+https://towardsdatascience.com/googles-new-explainable-ai-xai-service-83a7bc823773
+https://analyticsindiamag.com/8-explainable-ai-frameworks-driving-a-new-paradigm-for-transparency-in-ai/
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Videos
+
+Artificial Intelligence Colloquium: Explainable AI
+https://www.youtube.com/watch?v=YSsYXAn_L00
+
+Explainable AI for Science and Medicine (focused on SHAP methodology)
+https://www.youtube.com/watch?v=B-c8tIgchu0
+
+Building Explainable Machine Learning Systems: The Good, the Bad, and the Ugly
+https://www.youtube.com/watch?v=Q8rTrmqUQsU
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
