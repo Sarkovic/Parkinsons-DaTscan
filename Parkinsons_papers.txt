@@ -6,7 +6,7 @@ DaTscan SPECT Image Classification for Parkinson’s Disease
 https://arxiv.org/pdf/1909.04142.pdf
 
 Parkinson's Disease Detection Using Isosurfaces-based Features and Convolutional Neural Networks
-https://www.frontiersin.org/articles/10.3389/fninf.2019.00048/full
+https://sci-hub.tw/https://www.frontiersin.org/articles/10.3389/fninf.2019.00048/full
 
 Deep learning based diagnosis of Parkinson’s disease using convolutional neural network (Using MRI , not DaTscan)
 https://sci-hub.tw/https://link.springer.com/article/10.1007/s11042-019-7469-8
