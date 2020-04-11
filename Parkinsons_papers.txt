@@ -1,4 +1,6 @@
-~~~~~~~~~~~~~~~~~~~~ Papers on Parkinson's ~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~ Papers on Parkinson's ~~~~~~~~~~~~~~~~~~~~~~~
+
+>>>>>>>>>>>>>>>>>>>>    Imagery Papers    >>>>>>>>>>>>>>>>>>>>>>>>
 
 DaTscan SPECT Image Classification for Parkinson’s Disease 
 https://arxiv.org/pdf/1909.04142.pdf
@@ -9,17 +11,8 @@ https://www.frontiersin.org/articles/10.3389/fninf.2019.00048/full
 Deep learning based diagnosis of Parkinson’s disease using convolutional neural network (Using MRI , not DaTscan)
 https://sci-hub.tw/https://link.springer.com/article/10.1007/s11042-019-7469-8
 
-Parkinson’s Disease Diagnosis Using Machine Learning and Voice 
-https://sci-hub.tw/https://ieeexplore.ieee.org/document/8615607
-
-Efficiency of Voice Features Based on Consonant for Detection of Parkinson's Disease
-https://sci-hub.tw/https://ieeexplore.ieee.org/document/8572266
-
 An Improved Approach for Prediction of Parkinson’s Disease using Machine Learning Techniques
 https://sci-hub.tw/https://ieeexplore.ieee.org/document/7955679
-
-Prediction of Parkinson’s Disease using Speech Signal with Extreme Learning Machine
-https://sci-hub.tw/https://ieeexplore.ieee.org/document/7755419
 
 Prediction of outcome in Parkinson’s disease patients from DAT SPECT images using a convolutional neural network
 https://sci-hub.tw/https://ieeexplore.ieee.org/document/8824369
@@ -27,11 +20,23 @@ https://sci-hub.tw/https://ieeexplore.ieee.org/document/8824369
 Early detection of Parkinson’s disease using image processing and artificial neural network
 https://sci-hub.tw/https://ieeexplore.ieee.org/document/8641081
 
-Parkinson's disease detection using ensemble techniques and genetic algorithm
-https://sci-hub.tw/https://ieeexplore.ieee.org/document/8324074
+>>>>>>>>>>>>>>>>>>>>    Speech Papers    >>>>>>>>>>>>>>>>>>>>>>>>
+
+Parkinson’s Disease Diagnosis Using Machine Learning and Voice 
+https://sci-hub.tw/https://ieeexplore.ieee.org/document/8615607
+
+Efficiency of Voice Features Based on Consonant for Detection of Parkinson's Disease
+https://sci-hub.tw/https://ieeexplore.ieee.org/document/8572266
+
+Prediction of Parkinson’s Disease using Speech Signal with Extreme Learning Machine
+https://sci-hub.tw/https://ieeexplore.ieee.org/document/7755419
 
 Novel Speech Signal Processing Algorithms for High-Accuracy Classification of Parkinson’s Disease
 https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/6126094
 
+Parkinson's disease detection using ensemble techniques and genetic algorithm
+https://sci-hub.tw/https://ieeexplore.ieee.org/document/8324074
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
