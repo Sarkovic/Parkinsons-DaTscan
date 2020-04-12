@@ -3,22 +3,20 @@
 >>>>>>>>>>>>>>>>>>>>    Imagery Papers    >>>>>>>>>>>>>>>>>>>>>>>>
 
 DaTscan SPECT Image Classification for Parkinson’s Disease 
+// Nicely explained, understandable.
 https://arxiv.org/pdf/1909.04142.pdf
 
-Parkinson's Disease Detection Using Isosurfaces-based Features and Convolutional Neural Networks
-https://sci-hub.tw/https://www.frontiersin.org/articles/10.3389/fninf.2019.00048/full
+Early detection of Parkinson’s disease using image processing and artificial neural network
+// Very detailed and understandable.
+https://sci-hub.tw/https://ieeexplore.ieee.org/document/8641081
 
-Deep learning based diagnosis of Parkinson’s disease using convolutional neural network (Using MRI , not DaTscan)
+Deep learning based diagnosis of Parkinson’s disease using convolutional neural network 
+// Using MRI, not DaTscan
 https://sci-hub.tw/https://link.springer.com/article/10.1007/s11042-019-7469-8
 
-An Improved Approach for Prediction of Parkinson’s Disease using Machine Learning Techniques
-https://sci-hub.tw/https://ieeexplore.ieee.org/document/7955679
-
-Prediction of outcome in Parkinson’s disease patients from DAT SPECT images using a convolutional neural network
-https://sci-hub.tw/https://ieeexplore.ieee.org/document/8824369
-
-Early detection of Parkinson’s disease using image processing and artificial neural network
-https://sci-hub.tw/https://ieeexplore.ieee.org/document/8641081
+Parkinson's Disease Detection Using Isosurfaces-based Features and Convolutional Neural Networks
+// Uses 3D imaging, paper is quite complex.
+https://sci-hub.tw/https://www.frontiersin.org/articles/10.3389/fninf.2019.00048/full
 
 >>>>>>>>>>>>>>>>>>>>    Speech Papers    >>>>>>>>>>>>>>>>>>>>>>>>
 
