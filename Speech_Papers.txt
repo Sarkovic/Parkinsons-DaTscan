@@ -1,0 +1,21 @@
+>>>>>>>>>>>>>>>>>>>>    Speech Papers    >>>>>>>>>>>>>>>>>>>>>>>>
+A Survey of Machine Learning Based Approaches for Parkinson Disease Prediction
+// Has a compilation of resulting accuracies for various ML models on speech data
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.735.5660&rep=rep1&type=pdf
+
+Parkinson’s Disease Diagnosis Using Machine Learning and Voice 
+https://sci-hub.tw/https://ieeexplore.ieee.org/document/8615607
+
+Efficiency of Voice Features Based on Consonant for Detection of Parkinson's Disease
+https://sci-hub.tw/https://ieeexplore.ieee.org/document/8572266
+
+Prediction of Parkinson’s Disease using Speech Signal with Extreme Learning Machine
+https://sci-hub.tw/https://ieeexplore.ieee.org/document/7755419
+
+Novel Speech Signal Processing Algorithms for High-Accuracy Classification of Parkinson’s Disease
+https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/6126094
+
+Parkinson's disease detection using ensemble techniques and genetic algorithm
+https://sci-hub.tw/https://ieeexplore.ieee.org/document/8324074
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
