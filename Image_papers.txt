@@ -18,6 +18,11 @@ Parkinson's Disease Detection Using Isosurfaces-based Features and Convolutional
 // Uses 3D imaging, paper is quite complex.
 https://sci-hub.tw/https://www.frontiersin.org/articles/10.3389/fninf.2019.00048/full
 
+High Accuracy Classification of Parkinson'sDisease through Shape Analysis and Surface 
+Fitting in 123I-Ioflupane SPECT Imaging
+// Uses SVM
+https://arxiv.org/pdf/1703.01526.pdf
+
 Interpretable Machine Learning with LIME for Image Classification
 // LIME tutorial
 https://nbviewer.jupyter.org/url/arteagac.github.io/blog/lime_image.ipynb
