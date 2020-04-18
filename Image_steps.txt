@@ -1,0 +1,6 @@
+~~~~~~~~~~~~~~~~~~~~~~~~ STEPS ~~~~~~~~~~~~~~~~~~~~~~~~
+
+> Collect data in DICOM format, to ensure the model is trained on a set of unique subjects and tested on strictly unseen
+  data do not include images from follow-up patient visits.
+  
+> Convert all the DaT SPECT images into png format
