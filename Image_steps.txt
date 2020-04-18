@@ -3,4 +3,47 @@
 > Collect data in DICOM format, to ensure the model is trained on a set of unique subjects and tested on strictly unseen
   data do not include images from follow-up patient visits.
   
-> Convert all the DaT SPECT images into png format
+> Convert all the DaT SPECT images into png format to support InceptionV3 CNN.
+
+> (Optional) Concatenate slice 40, 41, 42 into one slice. Otherwise use use slice 41.
+
+> Use the ImageDataGenerator class from the Keras deep learning library. The ImageDataGenerator is able to load
+  small batches of images on the fly, directly from their respective directories (train,
+  validation and test) using the flow from directory method. (Used when system memory is limited)
+  
+> Because of small dataset the images need augmentations via a series of transformations. Data augmentations were 
+  done on the fly,this is performed using the ImageDataGenerator class, provided by the Keras deep learning library.
+  Training data underwent width shifts, height shifts, horizontal flipping and brightness augmentations.
+  
+> (Optional) Split dataset into 10 folds to be used for k-fold cross validation. Ensure that ratio between classes
+  remains same across all folds.
+  
+> InceptionV3 implements a deep CNN using the Keras neural network library that is running on top of a TensorFlow backend.
+  It utilized transfer learning of a pre-trained model and defined a custom, binary classifying block. 
+  
+> The classifying block consists of a 2D global average pooling layer taking the base model’s output as its input, 
+  followed by a dense layer with ReLU activation, followed by a dropout layer, and a final dense layer with sigmoid 
+  activation.
+  
+> This combined model was compiled using the Adam optimizer with an initial learning rate of 10^−3 and a step decay 
+  function that gradually decreased the learning rate until it reached a final learning rate of 10^−6.
+ 
+> The loss function used was binary crossentropy and the metric used to analyze the performance of the model was accuracy.     Each model of the ten-fold cross validation was trained over 500 epochs with a batch size of 16.
+
+> (Outcome based on paper) From the predictions of 132 test images, 88 were true positives, 1 was a false positive, 42 were     true negatives, and 1 was   a false negative. This produced a sensitivity of 0.9888, a specificity of 0.9767 and a
+  precision of 0.9888.
+  
+> Apply LIME.
+
+
+
+
+
+
+
+
+
+
+
+
+.
