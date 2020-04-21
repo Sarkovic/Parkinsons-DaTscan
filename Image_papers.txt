@@ -23,6 +23,10 @@ Fitting in 123I-Ioflupane SPECT Imaging
 // Uses SVM
 https://arxiv.org/pdf/1703.01526.pdf
 
+Deep convolutional neural network based medical image classification for disease diagnosis
+// Research on various CNN models used in medical image analysis
+https://sci-hub.tw/10.1186/s40537-019-0276-2
+
 Interpretable Machine Learning with LIME for Image Classification
 // LIME tutorial
 https://nbviewer.jupyter.org/url/arteagac.github.io/blog/lime_image.ipynb
