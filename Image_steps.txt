@@ -38,6 +38,10 @@
 
 ~~~~~~~~~~~~~~~~~~~~~~~~ TUTORIALS ~~~~~~~~~~~~~~~~~~~~~~~~
 
+Brain Tumor Detection with Transefer Learning
+// The most comprehensive tutorial
+https://www.kaggle.com/loaiabdalslam/brain-tumor-mri-classification-vgg16
+
 Medical Image Classification with Transfer Learning
 // Tutorial
 https://mc.ai/medical-image-classification-with-transfer-learning/
