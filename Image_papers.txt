@@ -27,14 +27,6 @@ Deep convolutional neural network based medical image classification for disease
 // Research on various CNN models used in medical image analysis
 https://sci-hub.tw/10.1186/s40537-019-0276-2
 
-Image Classification Transfer Learning with Inception v3
-// Google CLoud Tutorial
-https://codelabs.developers.google.com/codelabs/cpb102-txf-learning/index.html?index=..%2F..index#0
-
-Interpretable Machine Learning with LIME for Image Classification
-// LIME tutorial
-https://nbviewer.jupyter.org/url/arteagac.github.io/blog/lime_image.ipynb
-
 Convolutional Neural Networks for Medical Image Analysis: Full Training or Fine Tuning?
 // Use pre-trained or create a CNN from scratch?
 https://sci-hub.tw/https://ieeexplore.ieee.org/document/7426826
