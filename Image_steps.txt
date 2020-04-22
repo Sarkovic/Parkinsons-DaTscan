@@ -36,6 +36,25 @@
 > Apply LIME.
 
 
+~~~~~~~~~~~~~~~~~~~~~~~~ TUTORIALS ~~~~~~~~~~~~~~~~~~~~~~~~
+
+Medical Image Classification with Transfer Learning
+// Tutorial
+https://mc.ai/medical-image-classification-with-transfer-learning/
+
+Transfer Learning using Inception-v3 for Image Classification
+// Tutorial
+https://medium.com/analytics-vidhya/transfer-learning-using-inception-v3-for-image-classification-86700411251b
+
+Image Classification Transfer Learning with Inception v3
+// Google CLoud Tutorial
+https://codelabs.developers.google.com/codelabs/cpb102-txf-learning/index.html?index=..%2F..index#0
+
+Interpretable Machine Learning with LIME for Image Classification
+// LIME tutorial
+https://nbviewer.jupyter.org/url/arteagac.github.io/blog/lime_image.ipynb
+
+
 
 
 
