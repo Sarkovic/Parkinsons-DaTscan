@@ -3,7 +3,7 @@
 > Collect data in DICOM format, to ensure the model is trained on a set of unique subjects and tested on strictly unseen
   data do not include images from follow-up patient visits.
   
-> Convert all the DaT SPECT images into png format to support InceptionV3 CNN.
+> Convert all the DaT SPECT images into png/jpg format to support InceptionV3 CNN.
 
 > (Optional) Concatenate slice 40, 41, 42 into one slice. Otherwise use use slice 41.
 
@@ -41,6 +41,11 @@
 Brain Tumor Detection with Transefer Learning
 // The most comprehensive tutorial
 https://www.kaggle.com/loaiabdalslam/brain-tumor-mri-classification-vgg16
+
+DICOM to JPG
+// Convert .dcm images
+https://www.kaggle.com/onealbao/dicom-to-jpeg-conversion-kernel
+https://medium.com/@vivek8981/dicom-to-jpg-and-extract-all-patients-information-using-python-5e6dd1f1a07d
 
 Medical Image Classification with Transfer Learning
 // Tutorial
