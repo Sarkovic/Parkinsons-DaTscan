@@ -28,10 +28,11 @@
 > This combined model was compiled using the Adam optimizer with an initial learning rate of 10^−3 and a step decay 
   function that gradually decreased the learning rate until it reached a final learning rate of 10^−6.
  
-> The loss function used was binary crossentropy and the metric used to analyze the performance of the model was accuracy.     Each model of the ten-fold cross validation was trained over 500 epochs with a batch size of 16.
+> The loss function used was binary crossentropy and the metric used to analyze the performance of the model was accuracy.
 
-> (Outcome based on paper) From the predictions of 132 test images, 88 were true positives, 1 was a false positive, 42 were     true negatives, and 1 was   a false negative. This produced a sensitivity of 0.9888, a specificity of 0.9767 and a
-  precision of 0.9888.
+> Each model of the ten-fold cross validation was trained over 500 epochs with a batch size of 16.
+
+> This produced a sensitivity of 0.9888, a specificity of 0.9767 and a precision of 0.9888.
   
 > Apply LIME.
 
