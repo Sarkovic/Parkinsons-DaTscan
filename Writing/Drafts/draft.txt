@@ -1,0 +1,32 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~ Paper Draft ~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Title
+
+> "An Explainable Machine Learning Model for Parkinson's disease detection using LIME on DaTscan imagery"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Structure
+
+> Abstract
+> Keywords
+> Introduction
+> Methodology
+    > Model Training
+	> Dataset Aquisition
+	> Image Preprocessing
+	> Dataset Splitting
+	> Neural Network Architecture
+	> Results
+    > Explainability
+	> Purpose of Interpretability
+	> LIME Introduction
+	> Scope of application 
+	> Evaluation of Interpretability
+	    > Evaluation on correct classification
+	    > Evaluation on misclassifications	
+> Conclusion
+> References
+
+
+
