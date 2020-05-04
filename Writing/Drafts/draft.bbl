@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{cite1}
+W.~Poewe, K.~Seppi, C.~M. Tanner, G.~M. Halliday, P.~Brundin, J.~Volkmann,
+  A.-E. Schrag, A.~E. Lang, Parkinson disease, Nature reviews Disease primers
+  3~(1) (2017) 1--21.
+
+\bibitem{cite2}
+K.~R. Chaudhuri, A.~H. Schapira, Non-motor symptoms of parkinson's disease:
+  dopaminergic pathophysiology and treatment, The Lancet Neurology 8~(5) (2009)
+  464--474.
+
+\end{thebibliography}
