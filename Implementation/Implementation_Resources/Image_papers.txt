@@ -2,6 +2,10 @@
 
 >>>>>>>>>>>>>>>>>>>>    Imagery Papers    >>>>>>>>>>>>>>>>>>>>>>>>
 
+Medical image classification using synergic deep learning
+// A paper with more maths in it!
+https://sci-hub.tw/https://www.sciencedirect.com/science/article/abs/pii/S1361841518307552
+
 DaTscan SPECT Image Classification for Parkinson’s Disease 
 // Nicely explained, understandable.
 https://arxiv.org/pdf/1909.04142.pdf
